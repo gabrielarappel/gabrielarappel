@@ -1,6 +1,6 @@
 ## Oii, me chamo Gabriela Rappel!
 
-- 🔭 Sou estudante de Sistemas de Informação e trainee da TITAN - Empresa Júnior de Eng. da Computação da UFBA.
+- 🔭 Sou estudante de Sistemas de Informação e membro da TITAN - Empresa Júnior de Eng. da Computação da UFBA.
 - 🌱 Estou começando a estudar programação agora!
 - 📫 Entre em contato comigo através do email: gabrielafr3005@gmail.com
 
