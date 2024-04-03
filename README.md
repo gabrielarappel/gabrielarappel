@@ -1,7 +1,7 @@
 ## Oii, me chamo Gabriela Rappel!
 
 - 🔭 Sou estudante de Sistemas de Informação e membro da TITAN - Empresa Júnior de Eng. da Computação da UFBA.
-- 🌱 Estou começando a estudar programação agora!
+- 🌱 No momento, estou estudando Dart e Flutter para desenvolvimento mobile.
 - 📫 Entre em contato comigo através do email: gabrielafr3005@gmail.com
 
 <div>
@@ -21,11 +21,13 @@
 Estou começando os estudos de programação agora, então as poucas experiências que tenho são:
 - Lógica de programação em Python
 - Alguns exercícios do curso CS50 de Harvard em C
+- Dart e Flutter
 
 ### Metas de aprendizado e áreas de interesse
 
 Na área de TI temos um leque enorme de opções e quero conhecer um pouco de tudo. Atualmente minhas principais áreas de interesse são: 
 - Desenvolvimento Web;
+- Desenvolvimento Mobile;
 - Banco de Dados;
 - Ciência de Dados;
 - IA.
