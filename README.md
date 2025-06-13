@@ -1,7 +1,6 @@
 ## Oii, me chamo Gabriela Rappel!
 
 - 🔭 Sou estudante de Sistemas de Informação e membro da TITAN - Empresa Júnior de Eng. da Computação da UFBA.
-- 🌱 No momento, estou estudando Dart e Flutter para desenvolvimento mobile.
 - 📫 Entre em contato comigo através de:
   
 <div>
