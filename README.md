@@ -32,7 +32,6 @@
 
 Na área de TI temos um leque enorme de opções e quero conhecer um pouco de tudo. Atualmente minhas principais áreas de interesse são: 
 - Desenvolvimento Web;
-- Desenvolvimento Mobile;
 - Banco de Dados;
 - Ciência de Dados;
 - IA.
