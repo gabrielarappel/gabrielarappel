@@ -8,11 +8,11 @@
    <a href="https://www.linkedin.com/in/gabriela-rappel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
+<!-- <div>
   <a href="https://github.com/gabrielarappel">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielarappel&show_icons=true&theme=radical&v=1"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarappel&layout=compact&langs_count=8&theme=radical&v=2">
-  </div>
+  </div> -->
 
 ## Principais tecnologias:
 <div style="display: inline_block"><br>
