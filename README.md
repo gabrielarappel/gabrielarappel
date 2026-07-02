@@ -1,6 +1,8 @@
 ## Oii, me chamo Gabriela Rappel!
 
 - 🔭 Sou estudante de Sistemas de Informação e membro da TITAN - Empresa Júnior de Eng. da Computação da UFBA.
+- 💡 Tenho interesse em utilizar tecnologia para resolver problemas, apoiar a tomada de decisões e gerar impacto por meio de dados.
+- 📊 Atualmente, direciono meus estudos para Business Intelligence, Analytics, Inteligência Artificial aplicada e Gestão de Produtos orientada a dados.
 - 📫 Entre em contato comigo através de:
   
 <div>
@@ -28,10 +30,11 @@
 
 
 
-### Metas de aprendizado e áreas de interesse
+### Áreas de interesse
 
-Na área de TI temos um leque enorme de opções e quero conhecer um pouco de tudo. Atualmente minhas principais áreas de interesse são: 
-- Desenvolvimento Web;
-- Banco de Dados;
-- Ciência de Dados;
-- IA.
+Tenho interesse em áreas que conectam tecnologia, dados e negócio. Atualmente, meus principais focos são:
+- Business Intelligence (BI) e Analytics;
+- Ciência e Análise de Dados;
+- IA aplicada.
+- Gestão de Produtos orientada a dados;
+- Estratégia e tomada de decisão baseada em dados.
